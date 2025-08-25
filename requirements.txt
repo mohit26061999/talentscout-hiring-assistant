@@ -1,0 +1,46 @@
+# TalentScout Hiring Assistant - Python Dependencies
+# This file contains all the required Python packages for the application
+
+# Core Framework
+streamlit>=1.28.0
+
+# LLM Integration
+langchain-ollama>=0.1.0
+langchain-core>=0.1.0
+
+# Optional: If using OpenAI or other LLM providers
+# openai>=1.0.0
+# langchain-openai>=0.1.0
+
+# Database (SQLite is built-in to Python, no external dependency needed)
+# But if you want enhanced SQLite features:
+# sqlite3 (built-in)
+
+# Data Processing & Utilities
+# regex functionality (built-in as 're' module)
+# json (built-in)
+# datetime (built-in)
+
+# Optional: For enhanced data handling
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Optional: For better error handling and logging
+python-dotenv>=1.0.0
+
+# Optional: For data validation
+pydantic>=2.0.0
+
+# Optional: For enhanced UI components
+plotly>=5.0.0
+altair>=5.0.0
+
+# Development Dependencies (optional)
+# pytest>=7.0.0
+# black>=23.0.0
+# flake8>=6.0.0
+# mypy>=1.0.0
+
+# Production Dependencies (optional)
+# gunicorn>=21.0.0
+# uvicorn>=0.24.0
