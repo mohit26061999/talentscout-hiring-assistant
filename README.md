@@ -14,7 +14,6 @@ An AI-powered intelligent hiring assistant chatbot designed for initial candidat
 - [Challenges & Solutions](#challenges--solutions)
 - [Future Enhancements](#future-enhancements)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## 🎯 Project Overview
 
@@ -350,4 +349,5 @@ User Input → Streamlit → Python Logic → LLM Processing → Database Storag
 - **LangChain** for LLM integration tools
 - **Meta AI** for the Llama 3 model
 - **Open Source Community** for continuous inspiration and support
+
 
