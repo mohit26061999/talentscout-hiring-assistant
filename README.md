@@ -341,7 +341,7 @@ User Input → Streamlit → Python Logic → LLM Processing → Database Storag
 
 - **Project Maintainer**: Mohit Kumar
 - **Email**: mk079823@gmail.com
-- **GitHub**: [@yourusername](https://github.com/mohit26061999
+- **GitHub**: https://github.com/mohit26061999
 
 ## 🙏 Acknowledgments
 
@@ -350,3 +350,4 @@ User Input → Streamlit → Python Logic → LLM Processing → Database Storag
 - **LangChain** for LLM integration tools
 - **Meta AI** for the Llama 3 model
 - **Open Source Community** for continuous inspiration and support
+
